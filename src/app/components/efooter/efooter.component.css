@@ -1,0 +1,21 @@
+.footer{
+    background: #000;
+    color: #fff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.footer_content h2{
+    font-size: 22px;
+    font-variant: small-caps;
+}
+.footer_content ul li a{
+    color: #999;
+    text-transform: uppercase;
+    font-size: 12px;
+    padding-left: 0;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.footer_content ul li a:hover{
+    color: #fff;
+}

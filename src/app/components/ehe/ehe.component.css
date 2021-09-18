@@ -1,0 +1,19 @@
+.header_class{
+    /*border:solid;*/
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.top_links a{
+    color: #999;
+}
+.top_links a:hover{
+    color: #000;
+}
+.bg_light{
+    background-color:#fff !important ;
+}
+.menu_class{
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
